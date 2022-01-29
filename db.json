@@ -61,6 +61,13 @@
   ],
   "orders": [
     {
+      "id": 5,
+      "name": "Coca",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/fxCGP7k/coca-cola.png"
+    },
+    {
       "id": 6,
       "name": "Fanta",
       "category": "Bebidas",
