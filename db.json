@@ -10,7 +10,7 @@
     {
       "email": "ken@mail.com",
       "password": "$2a$10$Cp6dgrrZoQjUaj8hdWWlguLY8jvri7USXE2n0/fMvi9ZYHfj8wXX2",
-      "name": "Ken",
+      "name": "ken",
       "age": 38,
       "id": 2
     }
@@ -57,6 +57,17 @@
       "category": "Bebidas",
       "price": 4.99,
       "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png"
+    }
+  ],
+  "orders": [
+    {
+      "id": 6,
+      "name": "Fanta",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png",
+      "qty": 2,
+      "userId": 2
     }
   ]
 }
